@@ -8,7 +8,7 @@ The actions current recognized are:
 
 Fist => To play a video
 
-![Inital Img of water meter](https://github.com/Tom2096/Water-Meter-Monitor/blob/main/Imgs/image.png)
+![Inital Img of water meter](https://github.com/Tom2096/Gestures-YT-Scripts/blob/main/Imgs/fist.jpg)
 
 Open => To pause a video
 
