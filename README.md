@@ -12,19 +12,19 @@ Fist => To play a video
 
 Open => To pause a video
 
-![Inital Img of water meter](https://github.com/Tom2096/Water-Meter-Monitor/blob/main/Imgs/image.png)
+![Inital Img of water meter](https://github.com/Tom2096/Gestures-YT-Scripts/blob/main/Imgs/open.gif)
 
 Left => Go back to the previous video
 
-![Inital Img of water meter](https://github.com/Tom2096/Water-Meter-Monitor/blob/main/Imgs/image.png)
+![Inital Img of water meter](https://github.com/Tom2096/Gestures-YT-Scripts/blob/main/Imgs/left.gif)
 
 Right => Skip to the next video
 
-![Inital Img of water meter](https://github.com/Tom2096/Water-Meter-Monitor/blob/main/Imgs/image.png)
+![Inital Img of water meter](https://github.com/Tom2096/Gestures-YT-Scripts/blob/main/Imgs/right.gif)
 
-Check your webcam to ensure the models are loaded (They might take a while depending on your computer ... )
+Check your webcam to ensure the models are loaded (They might take a while depending on your computer ... Wait until you see the black dots)
 
-![Inital Img of water meter](https://github.com/Tom2096/Water-Meter-Monitor/blob/main/Imgs/image.png)
+![Inital Img of water meter](https://github.com/Tom2096/Gestures-YT-Scripts/blob/main/Imgs/isloaded.gif)
 
 [The finish product can be viewed here.](https://tom2096.github.io/Gestures-YT-React-App/).
 
@@ -45,6 +45,14 @@ The model used to train the data consists of three linear layers that surrounds 
 
 The trained weights and the model are then compiled into **ONNX** format to be used directly on React.
 
-Below is the finish result:
+Below is the finished result:
+
+##Pausing and Resuming##
+
+![Inital Img of water meter](https://github.com/Tom2096/Gestures-YT-Scripts/blob/main/Imgs/pandr.gif)
+
+##Skipping Videos##
+
+(https://github.com/Tom2096/Gestures-YT-Scripts/blob/main/Imgs/svideos.gif)
 
 
