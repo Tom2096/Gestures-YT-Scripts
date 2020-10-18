@@ -28,6 +28,8 @@ Check your webcam to ensure the models are loaded (They might take a while ... W
 
 [The finish product can be viewed here.](https://tom2096.github.io/Gestures-YT-React-App/) <--------------------------------------------------------------------------
 
+## Finished Product ##
+
 **Important!**
 Make sure that:
 - You give permission for the website to use your camera
