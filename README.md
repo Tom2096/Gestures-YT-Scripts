@@ -8,11 +8,23 @@ The actions current recognized are:
 
 Fist => To play a video
 
+![Inital Img of water meter](https://github.com/Tom2096/Water-Meter-Monitor/blob/main/Imgs/image.png)
+
 Open => To pause a video
+
+![Inital Img of water meter](https://github.com/Tom2096/Water-Meter-Monitor/blob/main/Imgs/image.png)
 
 Left => Go back to the previous video
 
+![Inital Img of water meter](https://github.com/Tom2096/Water-Meter-Monitor/blob/main/Imgs/image.png)
+
 Right => Skip to the next video
+
+![Inital Img of water meter](https://github.com/Tom2096/Water-Meter-Monitor/blob/main/Imgs/image.png)
+
+Check your webcam to ensure the models are loaded (You should see the black dots that outline the 21 differnt landmarks)
+
+![Inital Img of water meter](https://github.com/Tom2096/Water-Meter-Monitor/blob/main/Imgs/image.png)
 
 Currently there are only five Youtube videos in the playlist, but more can be easily added. 
 
