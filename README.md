@@ -43,15 +43,15 @@ The data are then collected by a custom dataset using **Python**, where the coor
 
 The model used to train the data consists of three linear layers that surround two activiation layers. It takes a tensor of shape (B by 42) as input and returns a tensor of shape (B by 5) as output (corresponding with the 5 different gestures).
 
-The trained weights and the model are then compiled into **ONNX** format to be used directly on React.
+The trained weights and the model are then converted into **ONNX** format to be used directly on React.
 
 Below is the finished result:
 
-##Pausing and Resuming##
+## Pausing and Resuming ##
 
 ![fist and open](https://github.com/Tom2096/Gestures-YT-Scripts/blob/main/Imgs/pandr.gif)
 
-##Skipping Videos##
+## Skipping Videos ##
 
 ![left and right](https://github.com/Tom2096/Gestures-YT-Scripts/blob/main/Imgs/svideos.gif)
 
