@@ -16,7 +16,7 @@ Right => Skip to the next video
 
 Currently there are only five Youtube videos in the playlist, but more can be easily added. 
 
-[The finish product can be viewed here (The models may take a while to load).](https://tom2096.github.io/Gestures-YT-React-App/) (**Note that you must give the app permission to use your camera**).
+[The finish product can be viewed here.](https://tom2096.github.io/Gestures-YT-React-App/) (**Note that you must give the app permission to use your camera**).
 
 ## Development
 
