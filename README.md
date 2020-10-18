@@ -2,7 +2,21 @@ Gesture Classifier
 ==================
 ## Overview
 
-This program recognizes the user's hand gesture and performs an assigned action on a Youtube video. [The finish product can be viewed here.](https://tom2096.github.io/Gestures-YT-React-App/) (**Note that you must give the app permission to use your camera**).
+This program recognizes the user's hand gesture and performs an assigned action on a Youtube video.
+
+The actions current recognized are:
+
+Fist => To play a video
+
+Open => To pause a video
+
+Left => Go back to the previous video
+
+Right => Skip to the next video
+
+Currently there are only five Youtube videos in the playlist, but more can be easily added. 
+
+[The finish product can be viewed here.](https://tom2096.github.io/Gestures-YT-React-App/) (**Note that you must give the app permission to use your camera**).
 
 ## Development
 
