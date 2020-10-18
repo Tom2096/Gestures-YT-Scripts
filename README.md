@@ -4,7 +4,7 @@ Gesture Classifier
 
 This program recognizes the user's hand gesture and performs an assigned action on a Youtube video.
 
-The actions current recognized are:
+The actions currently recognized are:
 
 Fist => To play a video
 
