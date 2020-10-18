@@ -26,7 +26,7 @@ Check your webcam to ensure the models are loaded (They might take a while ... W
 
 ![Inital Img of water meter](https://github.com/Tom2096/Gestures-YT-Scripts/blob/main/Imgs/isloaded.gif)
 
-[The finish product can be viewed here.](https://tom2096.github.io/Gestures-YT-React-App/).
+[The finish product can be viewed here.](https://tom2096.github.io/Gestures-YT-React-App/) <----------------------------
 
 **Important!**
 Make sure that:
@@ -53,6 +53,6 @@ Below is the finished result:
 
 ##Skipping Videos##
 
-(https://github.com/Tom2096/Gestures-YT-Scripts/blob/main/Imgs/svideos.gif)
+![Inital Img of water meter](https://github.com/Tom2096/Gestures-YT-Scripts/blob/main/Imgs/svideos.gif)
 
 
