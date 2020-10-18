@@ -22,7 +22,7 @@ Right => Skip to the next video
 
 ![right](https://github.com/Tom2096/Gestures-YT-Scripts/blob/main/Imgs/right.gif)
 
-Check your webcam to ensure the models are loaded (They might take a while ... Wait until you see the black dots)
+Check your webcam to ensure the models are loaded (This might take a while ... Wait until you see the black dots)
 
 ![isloaded](https://github.com/Tom2096/Gestures-YT-Scripts/blob/main/Imgs/isloaded.gif)
 
