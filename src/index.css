@@ -1,0 +1,108 @@
+body {
+  margin: 0;
+  background-color: black;
+  width: 100%;
+  height: 100%;
+}
+
+.app {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+
+.record.icon {
+  position: absolute;
+  top: 2rem;
+  left: 2rem;
+  color: white;
+  font-size: 1.4rem;
+  transition: 0.2s;
+  cursor: pointer;
+  z-index: 100;
+}
+
+.record.icon:hover {
+  transform: scale(1.2);
+}
+
+.webcam {
+  transform: scale(0);
+  pointer-events: none;
+}
+
+.webcam.active {
+  transform: scale(1);
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 8;
+  background-color: rgba(0, 0, 0, 0.9);
+  opacity: 0;
+  pointer-events: none;
+}
+
+.overlay.active {
+  opacity: 1;
+}
+
+canvas {
+  pointer-events: none;
+}
+
+.content {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+
+.video-player {
+  width: 60%;
+  outline: 3px solid white;
+  box-shadow: 0px 0px 15px 5px white;
+}
+
+.player-wrapper {
+  position: relative;
+  padding-top: 56.25%;
+}
+
+.react-player {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.CircularProgressbar {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  width: 20%;
+  height: 20%;
+  pointer-events: none;
+  transition: transform 0.4s;
+}
+
+.fade-exit {
+  transform: scale(1);
+}
+
+.fade-exit-active {
+  transform: scale(0);
+}
+
+
+
