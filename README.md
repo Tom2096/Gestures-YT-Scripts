@@ -39,7 +39,7 @@ Make sure that:
 
 ## Development
 
-Firstly, the program takes input from the user's webcam and uses the **handpose** model provided by **TensorFlow.js** to discern 21 different hand landmarks.
+Firstly, the program takes input from the user's webcam and uses the [**Handpose Detection**](https://github.com/tensorflow/tfjs-models/tree/master/handpose) model provided by **TensorFlow.js** to discern 21 different hand landmarks.
 
 The landmarks corresponding with different gestures (fist, open, left, right, ok) are then recorded, labeled, and stored to a json database.
 
