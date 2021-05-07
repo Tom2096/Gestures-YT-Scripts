@@ -29,7 +29,7 @@ Check your webcam to ensure the models are loaded (This might take a while ... W
 
 ## Finished Product ##
 
-[The finish product can be viewed here.](https://tom2096.github.io/Gestures-YT-React-App/) <--------------------------------------------------------------------------
+[The finished product can be viewed here.](https://tom2096.github.io/Gestures-YT-React-App/) <--------------------------------------------------------------------------
 
 
 **Important!**
