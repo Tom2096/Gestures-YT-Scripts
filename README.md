@@ -43,7 +43,7 @@ Firstly, the program takes input from the user's webcam and uses the [**Handpose
 
 The landmarks corresponding with different gestures (fist, open, left, right, ok) are then recorded, labeled, and stored to a json database.
 
-The data are then collected by a custom dataset using **Python**, where the coordinates are normalized and trained using **Pytorch**. 
+The data is then collected by a custom dataset using **Python**, where the coordinates are normalized and trained using **Pytorch**. 
 
 The model used to train the data consists of three linear layers that surround two activiation layers. It takes a tensor of shape (B by 42) as input and returns a tensor of shape (B by 5) as output (corresponding with the 5 different gestures).
 
